@@ -1,4 +1,13 @@
 /* Зовнішні стилі */
+/* Селектор тегу (типу) */
 h1 {
     color: blue;
+}
+/* Селектор класу */
+.anotation {
+    font-size: 12px;
+}
+/* Селектор індитифікатора */
+#Subscribe-btn {
+    color: rebeccapurple;
 }
